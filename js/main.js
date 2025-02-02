@@ -1,3 +1,5 @@
+// COPYRIGHT: NO DELETE! Author: Dzmitry Faryna dev.dfarino46@gmail.com
+
 const reviews = document.querySelector('.reviews');
 
 if (reviews) {
